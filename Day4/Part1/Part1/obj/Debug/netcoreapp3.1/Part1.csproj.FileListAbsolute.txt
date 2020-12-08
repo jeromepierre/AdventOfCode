@@ -1,0 +1,13 @@
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\bin\Debug\netcoreapp3.1\Part1.exe
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\bin\Debug\netcoreapp3.1\Part1.deps.json
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.json
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.dev.json
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\bin\Debug\netcoreapp3.1\Part1.dll
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\bin\Debug\netcoreapp3.1\Part1.pdb
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.csprojAssemblyReference.cache
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfoInputs.cache
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfo.cs
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.csproj.CoreCompileInputs.cache
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.dll
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.pdb
+C:\VS-Workspace\AdventOfCode\Day4\Part1\Part1\obj\Debug\netcoreapp3.1\Part1.genruntimeconfig.cache
